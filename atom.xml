@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fengying126.github.io/"/>
-  <updated>2019-10-15T08:08:46.842Z</updated>
+  <updated>2019-10-18T02:46:15.394Z</updated>
   <id>http://fengying126.github.io/</id>
   
   <author>
@@ -15,6 +15,73 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown语法</title>
+    <link href="http://fengying126.github.io/2019/10/18/markdown-yu-fa/"/>
+    <id>http://fengying126.github.io/2019/10/18/markdown-yu-fa/</id>
+    <published>2019-10-18T02:27:21.000Z</published>
+    <updated>2019-10-18T02:46:15.394Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="python" scheme="http://fengying126.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python编程</title>
+    <link href="http://fengying126.github.io/2019/10/18/python-bian-cheng/"/>
+    <id>http://fengying126.github.io/2019/10/18/python-bian-cheng/</id>
+    <published>2019-10-18T02:27:21.000Z</published>
+    <updated>2019-10-18T03:25:24.195Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;一、python介绍（python3）&quot;&gt;&lt;a href=&quot;#一、python介绍（python3）&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="python基础" scheme="http://fengying126.github.io/categories/python%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="python" scheme="http://fengying126.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://fengying126.github.io/2019/10/18/python-ji-chu/"/>
+    <id>http://fengying126.github.io/2019/10/18/python-ji-chu/</id>
+    <published>2019-10-18T02:24:07.039Z</published>
+    <updated>2019-10-15T08:08:46.842Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
