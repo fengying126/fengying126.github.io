@@ -4,28 +4,9 @@
   
     
     <entry>
-      <title>markdown语法</title>
-      <link href="/2019/10/18/markdown-yu-fa/"/>
-      <url>/2019/10/18/markdown-yu-fa/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>python编程</title>
-      <link href="/2019/10/18/python-bian-cheng/"/>
-      <url>/2019/10/18/python-bian-cheng/</url>
+      <link href="/2019/10/18/python/"/>
+      <url>/2019/10/18/python/</url>
       
         <content type="html"><![CDATA[<h1 id="一、python介绍（python3）"><a href="#一、python介绍（python3）" class="headerlink" title="一、python介绍（python3）"></a>一、python介绍（python3）</h1><p>python是一门面向对象的编程语言，其语言简洁优雅、功能强大，可移植、可扩展、可嵌入。其底层由C实现。<br>python解释器：<br>有Cpython、Jpython、Pypy等解释器，其主要特点是，源码逐行解释成机器码并立即执行。<br>python代码特色：使用缩进来表示代码块，不需要使用大括号 {} ，缩进的空格数是可变的，但是同一个代码块的语句必须包含相同的缩进空格数，Python通常是一行写完一条语句，但如果语句很长，我们可以使用反斜杠()来实现多行语句。<br>python代码注释：<br>Python中单行注释以 # 开头，多行注释可以用多个 # 号，还有 ‘’’ 和 “””</p><h1 id="二、python数据类型"><a href="#二、python数据类型" class="headerlink" title="二、python数据类型"></a>二、python数据类型</h1><p>Python3 中有六个标准的数据类型：<br>Number（数字）<br>String（字符串）<br>List（列表）<br>Tuple（元组）<br>Set（集合）<br>Dictionary（字典）</p><p>Python3 的六个标准数据类型中：<br>不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；<br>可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。</p>]]></content>
       
@@ -42,19 +23,6 @@
             <tag> python </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/10/18/python-ji-chu/"/>
-      <url>/2019/10/18/python-ji-chu/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
