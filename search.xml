@@ -4,32 +4,7 @@
   
     
     <entry>
-      <title>python编程</title>
-      <link href="/2019/10/18/python-ji-chu/python/"/>
-      <url>/2019/10/18/python-ji-chu/python/</url>
-      
-        <content type="html"><![CDATA[<h1 id="一、python介绍（python3）"><a href="#一、python介绍（python3）" class="headerlink" title="一、python介绍（python3）"></a>一、python介绍（python3）</h1><p>python是一门面向对象的编程语言，其语言简洁优雅、功能强大，可移植、可扩展、可嵌入。其底层由C实现。<br>python解释器：<br>有Cpython、Jpython、Pypy等解释器，其主要特点是，源码逐行解释成机器码并立即执行。<br>python代码特色：使用缩进来表示代码块，不需要使用大括号 {} ，缩进的空格数是可变的，但是同一个代码块的语句必须包含相同的缩进空格数，Python通常是一行写完一条语句，但如果语句很长，我们可以使用反斜杠()来实现多行语句。<br>python代码注释：<br>Python中单行注释以 # 开头，多行注释可以用多个 # 号，还有 ‘’’ 和 “””</p><h1 id="二、python数据类型"><a href="#二、python数据类型" class="headerlink" title="二、python数据类型"></a>二、python数据类型</h1><p>Python3 中有六个标准的数据类型：<br>Number（数字）<br>String（字符串）<br>List（列表）<br>Tuple（元组）<br>Set（集合）<br>Dictionary（字典）</p><p>Python3 的六个标准数据类型中：<br>不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；<br>可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> python基础 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>python编程</title>
+      <title>python基础（一）</title>
       <link href="/2019/10/18/python-ji-chu/python-ji-chu-yi/"/>
       <url>/2019/10/18/python-ji-chu/python-ji-chu-yi/</url>
       
